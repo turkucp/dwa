@@ -1,2 +1,2 @@
 print('Greetings Earth!')
-cos dla Kocika
+print('more changes')
